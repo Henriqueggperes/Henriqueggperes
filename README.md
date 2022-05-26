@@ -1,4 +1,4 @@
-## Olá!! Eu meu nome é Henrique e sinta-se a vontade em meu perfil =)
+## Olá!! Eu sou Henrique e a vontade em meu perfil =)
 <div align="center">
   <a href="https://github.com/Henriqueggperes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henriqueggperes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
