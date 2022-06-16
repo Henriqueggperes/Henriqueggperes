@@ -5,9 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henriqueggperes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriqueggperes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-     <h2> <b>About me</b>😁</h2>
-   <span height="60em"> My name is Henrique Gomes Peres, i am a FullStack developer from Brazil. I consider my self as a person wich is constantly hungry for knowledge and a passionate for technology an its advances. I'm looking foward to grow bigger and bigger in the technology field, and also willing to put myself to the test making me greater.</span>
+ <h2> About me 😁</h2>
+ <span height="60em"> My name is Henrique Gomes Peres, i am a FullStack developer from Brazil. I consider my self as a person wich is constantly hungry for knowledge and a passionate for technology an its advances. I'm looking foward to grow bigger and bigger in the technology field, and also willing to put myself to the test making me greater.</span>
    
 <div>
   <a href="https://instagram.com/henriquegperez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
