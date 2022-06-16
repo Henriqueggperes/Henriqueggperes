@@ -1,6 +1,6 @@
 ## Hello! I am Henrique, and welcome to my profile =)/ Olá! Eu sou Henrique e fique a vontade em meu perfil =) 🚀🚀
-<h2>About me 😁<h2>
-   <span> My name is Henrique Gomes Peres, i am a FullStack developer from Brazil. I consider my self as a person wich is constantly hungry for knowledge and a passionate for technology an its advances. I'm looking foward to grow bigger and bigger in the technology field, and also willing to put myself to the test making me greater.<span>
+<span> <strong>About me<strong>😁<span>
+   <span height="60em"> My name is Henrique Gomes Peres, i am a FullStack developer from Brazil. I consider my self as a person wich is constantly hungry for knowledge and a passionate for technology an its advances. I'm looking foward to grow bigger and bigger in the technology field, and also willing to put myself to the test making me greater.<span>
       
       
 <div align="center">
