@@ -7,7 +7,7 @@
 </div>
  <h2>About me <h2>
    <p> My name is Henrique Gomes Peres, i am a FullStack developer from Brazil. I consider my self as a person wich is constantly hungry for knowledge and a passionate for technology an its advances. I'm looking foward to grow bigger and bigger in the technology field, and also willing to put myself to the test making me greater.<p>
-  ##
+ 
 <div>
   <a href="https://instagram.com/henriquegperez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:henriqquegperes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
