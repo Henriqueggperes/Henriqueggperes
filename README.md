@@ -1,4 +1,4 @@
-#**Hello!**I am Henrique, and welcome to my profile =)/ Olá! Eu sou Henrique e fique a vontade em meu perfil =) 🚀🚀
+#Hello!I am Henrique, and welcome to my profile =)/ Olá! Eu sou Henrique e fique a vontade em meu perfil =) 🚀🚀
      
 <div align="center">
   <a href="https://github.com/Henriqueggperes">
