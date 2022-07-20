@@ -1,4 +1,4 @@
-<h1><b>Hello!</b> I am Henrique, and <b>welcome to my profile</b> =)/ Olá! Eu sou Henrique e fique a vontade em meu perfil =) 🚀🚀</h1>
+<h1><b>Hello there!</b> I am Henrique, and <b>welcome to my profile</b> =)/ Olá! Eu sou Henrique e fique a vontade em meu perfil =) 🚀🚀</h1>
      
 <div align="center">
   <a href="https://github.com/Henriqueggperes">
