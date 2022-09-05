@@ -25,8 +25,20 @@
 </div>
 
 ### Main skills:
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=red6&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypesCript-0D1117?style=for-the-badge&logo=Typescript&logoColor=blue&labelColor=0D1117)&nbsp; 
-![C#](https://img.shields.io/badge/-TypesCript-0D1117?style=for-the-badge&logo=Typescript&logoColor=blue&labelColor=0D1117)&nbsp; 
+![Javascript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=Javascript&logoColor=yellow&labelColor=0D1117)&nbsp; 
+
+### Studying in this moment:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypesCript-0D1117?style=for-the-badge&logo=Typescript&logoColor=blue&labelColor=0D1117)&nbsp; 
+
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=purple&labelColor=0D1117)&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2708A0&height=120&section=footer"/>
