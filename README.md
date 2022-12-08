@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2708A0&height=150&section=header&text=Hello+I'm+Henrique.+:)&fontSize=40&fontColor=D6FFF6&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=98A6D4&size=38&center=true&vCenter=true&width=1000&lines=ABOUT+ME;My+name+is+Henrique+Gomes+Peres;I'm+21+years+old;An+absolute+passtionate+for+technology;A+brazilian+developer;Studying+Fullstack+Web+development+at+BlueEdtech;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=98A6D4&size=38&center=true&vCenter=true&width=1000&lines=ABOUT+ME;My+name+is+Henrique+Gomes+Peres;I'm+21+years+old;An+absolute+passtionate+for+technology;A+brazilian+developer;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Henriqueggperes&show_icons=true&count_private=true&hide_border=true&title_color=98A6D4&icon_color=98A6D4&text_color=c9d1d9&bg_color=0d1117" alt="Henrique's github stats" /> 
