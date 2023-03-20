@@ -5,7 +5,6 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Henriqueggperes&show_icons=true&count_private=true&hide_border=true&title_color=98A6D4&icon_color=98A6D4&text_color=c9d1d9&bg_color=0d1117" alt="Henrique's github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriqueggperes&layout=compact&hide_border=true&title_color=98A6D4&text_color=98A6D4&bg_color=0d1117" />
-  <div> Contact: +55 19983199436 </div> 
 </div>
 
 
@@ -24,6 +23,8 @@
   ![Snake animation](https://github.com/Henriqueggperes/Henriqueggperes/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<div font-size="2rem"> Contact: +55 19983199436 </div> 
 
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=red6&labelColor=0D1117)&nbsp;
